@@ -115,6 +115,7 @@ html {
     box-sizing: border-box;
     display: inline-flex;
     align-items: center;
+    justify-content: space-between;
     gap: 1em;
     font-size: 20px;
 }
@@ -129,4 +130,16 @@ html {
     Background: #C5965F;
     font-weight: 400;
 }
+
+.button__delete{
+    color: white;
+    font-size: 700;
+    background-color: #af342c;
+    border: none;
+    padding: 0.6em;
+    border-radius: 5px;
+
+    justify-content: end;
+}
+
 

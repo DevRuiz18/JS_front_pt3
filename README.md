@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+# JavaScript na Web: armazenando dados no navegador
